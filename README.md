@@ -25,6 +25,6 @@ Navigate to the project directory and run the Streamlit app using the following 
 streamlit run dashboard/dashboard.py
 ```
 This will start the Streamlit server and open a new page in your default web browser with the URL of the Streamlit app.
-Or you can run the dashboard directly from the web browser by clicking on the following link: 
+Or you can run the dashboard directly from the web browser by clicking on the following link: [STREAMLIT APP LINK](https://e-commerce-performance-dashboard-haritsmz.streamlit.app/)
 
 
