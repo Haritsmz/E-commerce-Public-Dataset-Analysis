@@ -9,7 +9,7 @@ sns.set(style='dark')
 
 # Load cleaned data
 all_df = pd.read_csv("dashboard/cleaned_merged_df.csv")
-rfm_df = pd.read_csv("dashboard\cleaned_rfm_df.csv")
+rfm_df = pd.read_csv("dashboard/cleaned_rfm_df.csv")
 
 datetime_columns = ["order_purchase_timestamp", "order_delivered_customer_date"]
 all_df.sort_values(by="order_purchase_timestamp", inplace=True)
